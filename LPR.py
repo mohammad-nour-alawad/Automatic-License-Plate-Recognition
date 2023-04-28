@@ -28,7 +28,7 @@ from PIL import Image
 #load_dotenv(find_dotenv())
 
 
-connection_string = "mongodb+srv://anpr:anpranpr@lpr.et0guo9.mongodb.net/?retryWrites=true&w=majority"
+connection_string = "mongodb+srv://****::********@***.*******.mongodb.net/?retryWrites=true&w=majority"
 client = MongoClient(connection_string)
 anpr_results = client.anpr_results
 
