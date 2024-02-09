@@ -1,4 +1,4 @@
-# YOLO4_Automatic_License_Plate_Recognition
+# Automatic License Plate Recognition (ALPR) for Indian Numbers (٠١٢٣٤٥٦٧٨٩)
 
 THIS PROJECT IS MADE TO WORK ON A **KHADAS VIM3 AI EDGE DEVICE**.
 
