@@ -9,9 +9,9 @@ In this project I am deploying a YOLOV4 model for License Plate Recognition of t
 **NOTE**: I also send a stream of the detection results UDP port, so I can catch these packets and decode it to see a LIVE STREAM of the detection results. 
 
 The Process:
-- find the car.
+- find the car. 
 - find the numbers (six numbers) and order them depending on the X axis positions.
-- save the detection to a MongoDB.
+- save the detection to a MongoDB. 
 - snap a photo of the plate.
 - compress the photo.
 - encode the photo as a string and save it to the cloud.
